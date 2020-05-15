@@ -1,0 +1,9 @@
+body {  
+    background-color: yellow;  
+}  
+h1{
+    text-shadow: 0 0 .1em red;
+    margin: 0.1px;
+    padding: 2px;
+    font-size: 2px;
+}
